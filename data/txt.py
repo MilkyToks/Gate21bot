@@ -60,7 +60,7 @@ CHANGELOG_COMMAND = """Бот создан <b>16 июня 2023 г. в 20:00:54</
 SOURCE_COMMAND = """
 Этот бот является копией бесплатного программного обеспечения. И находится под лицензией "AGPL".
 
-Оригинальный код доступен здесь https://drive.google.com/drive/folders/1xtkj5Y42Ro7pGtOc69QlwYrVwQ9F8lXm?usp=sharing
+Оригинальный код доступен здесь https://github.com/MilkyToks/Gate21bot/
 
 Разработка бота: <a href=\"t.me/MilkyBots\">MilkyBots</a>
 Отдельная благодарность: <a href=\"tg://user?id=1956508438\">MrKoteyka</a>, <a href=\"t.me/This113Bots\">Dimoka113</a>
